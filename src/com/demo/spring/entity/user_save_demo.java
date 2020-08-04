@@ -19,7 +19,7 @@ public class user_save_demo {
 				try {			
 					// create a student object
 					System.out.println("Creating new student object...");
-					User tempUser = new User("robert", "perry", "Malkapur","262240","perry@yahoo.com","perryrobert","robertperry");
+					User tempUser = new User("vijay", "ingle", "Nandura","443404","vijay@gmail.com","inglevijay","vijayingle");
 					
 					// start a transaction
 					session.beginTransaction();
